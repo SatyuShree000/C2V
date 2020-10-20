@@ -1,13 +1,24 @@
-## [Creator](https://telegram.dog/shreevish)
+## [Anydl Robot](https://telegram.dog/Anydl)
 ---
 
 An Open Source Telegram RoBot  😍
+
+### Special thanks
+
+* [@Spechide](https://telegram.dog/spechide)
 
 ### Installation
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SatyuShree000/C2V/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+## Our Telegram Channel and Group
+
+* [Dx Bots Updates](https://telegram.dog/Dx_Botz)
+
+* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+
 
 ### [@BotFather](https://telegram.dog/BotFather) Commands
 
