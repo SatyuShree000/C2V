@@ -1,4 +1,3 @@
-
 # the logging things
 import logging
 logging.basicConfig(level=logging.DEBUG,
@@ -31,7 +30,7 @@ from hachoir.parser import createParser
 from PIL import Image
 
 
-@pyrogram.Client.on_message(pyrogram.Filters.command(["c2v"]))
+@pyrogram.Client.on_message(pyrogram.Filters.command(["converttovideo"]))
 async def convert_to_video(bot, update):
     if update.from_user.id in Config.BANNED_USERS:
         await bot.send_message(
@@ -40,7 +39,7 @@ async def convert_to_video(bot, update):
             reply_to_message_id=update.message_id
         )
         return
-    TRChatBase(update.from_user.id, update.text, "c2v")
+    TRChatBase(update.from_user.id, update.text, "converttovideo")
     if update.reply_to_message is not None:
         description = Translation.CUSTOM_CAPTION_UL_FILE
         download_location = Config.DOWNLOAD_LOCATION + "/"
