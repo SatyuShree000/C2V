@@ -7,7 +7,7 @@ An Open Source Telegram RoBot  😍
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SatyuShree000/C2V)
 
 ### [@BotFather](https://telegram.dog/BotFather) Commands
 
