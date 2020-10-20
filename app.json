@@ -1,6 +1,6 @@
 {
   "name": "File converter",
-  "description": "Telegram's best Open Source Streamable Video Converting Purpose RoBot.",
+  "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
     "best",
@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/shreevish",
-  "website": "https://github.com/SatyuShree000/C2V",
-  "repository": "https://github.com/SatyuShree000/C2V",
+  "success_url": "https://telegram.dog/AnyDLBot",
+  "website": "https://github.com/SpEcHiDe/AnyDLBot",
+  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
