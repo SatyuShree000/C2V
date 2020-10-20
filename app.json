@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/shreevish",
-  "website": "https://github.com/SatyuShree000/",
-  "repository": "https://github.com/SatyuShree000/",
+  "website": "https://github.com/SatyuShree000/C2V",
+  "repository": "https://github.com/SatyuShree000/C2V",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
